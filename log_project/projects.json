@@ -3,13 +3,23 @@
     "name": "Morpheus",
     "description": "Typescript 2D Engine/Game Project.",
     "repo_link": "https://github.com/atari-monk/ts-engine-nx",
-    "status": null,
-    "start_date": null,
+    "status": "In Progress",
+    "start_date": "2024.07",
     "end_date": null,
-    "priority": null,
-    "technologies": null,
-    "milestones": null,
-    "current_tasks": null,
+    "priority": "High",
+    "technologies": [
+      "typescript",
+      "canvas",
+      "html",
+      "css",
+      "nx"
+    ],
+    "milestones": [
+      "cleaned code base"
+    ],
+    "current_tasks": [
+      "clean from scenes"
+    ],
     "last_updated": null,
     "id": 1
   }
